@@ -1,4 +1,5 @@
 #Assignment 4
+Design Inspiration from https://applikeysolutions.com/blog/the-guide-to-banking-app-development
 
 ![Screenshot 2022-02-13 203057](https://user-images.githubusercontent.com/98040179/153759594-ee9e3091-cc8a-4330-b1a2-a03f4ceb4353.png)
 
